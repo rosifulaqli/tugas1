@@ -1,5 +1,5 @@
 <?php  
-// $nama='yanti';
+// $nama='ipul';
 // $umur=2;
 // echo "Nama ".$nama." umur ".$umur."tahun";
 
